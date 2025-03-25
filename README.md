@@ -2,9 +2,7 @@
 
 A simple, elegant web application that allows users to quickly check the current weather conditions for any city using the OpenWeatherMap API.
 
-## 🌐 Live Demo
 
-[View Live Weather App](https://pragyat-nikunj.github.io/Weather-App/)
 
 ## ✨ Features
 
