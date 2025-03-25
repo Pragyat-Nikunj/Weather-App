@@ -30,7 +30,7 @@ A simple, elegant web application that allows users to quickly check the current
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/pragyat-nikunj/weather-app.git
 ```
 
 2. Replace the API key in `script.js` with your own OpenWeatherMap API key
